@@ -339,14 +339,7 @@ Validation system implemented in:
 
 # 📦 Installation
 
----
 
-## 1. Clone Repository
-
-```bash
-git clone https://github.com/yourusername/kinetiklab.git
-cd kinetiklab
-```
 
 ---
 
@@ -403,22 +396,7 @@ http://localhost:8501
 
 ---
 
-# 📂 Repository Structure
 
-```txt
-kinetiklab/
-│
-├── app.py
-├── viewer.py
-├── generate_data.py
-├── ca2_50curves.csv
-├── requirements.txt
-├── README.md
-│
-├── assets/
-├── exports/
-├── screenshots/
-└── notebooks/
 ```
 
 ---
